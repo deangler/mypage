@@ -21,12 +21,12 @@ h3 {
 
 a {
   color: darkgray;
-  text-decoration: none;
+  text-decoration: underline;
   transition: all .1s ease-in-out;
 }
 
 a:hover {
   color: cornfloweblue;
-  text-decoration: underline;
+  text-decoration: none;
   transition: all .1s ease-in-out;
 }
