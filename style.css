@@ -16,11 +16,13 @@ body {
 }
 
 a {
+  color: darkgray;
   text-decoration: none;
   transition: all .1s ease-in-out;
 }
 
 a:hover {
+  color: cornfloweblue;
   text-decoration: underline;
   transition: all .1s ease-in-out;
 }
