@@ -14,3 +14,13 @@ body {
   height: 100vh;
   width: 100vw;
 }
+
+a {
+  text-decoration: none;
+  transition: all .1s ease-in-out;
+}
+
+a:hover {
+  text-decoration: underline;
+  transition: all .1s ease-in-out;
+}
