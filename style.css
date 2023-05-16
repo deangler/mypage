@@ -15,6 +15,10 @@ body {
   width: 100vw;
 }
 
+h3 {
+  margin-top: 10px; 
+}
+
 a {
   color: darkgray;
   text-decoration: none;
