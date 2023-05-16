@@ -25,7 +25,11 @@ a {
   transition: all .1s ease-in-out;
 }
 
-a:hover:active:link {
+a:hover {
+  color: cornfloweblue;
+}
+
+a:active:link {
   color: cornfloweblue;
   text-decoration: none;
   transition: all .1s ease-in-out;
