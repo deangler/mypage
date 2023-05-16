@@ -33,7 +33,7 @@ a {
   transition: all .1s ease-in-out;
 }
 
-a:hover {
+a:hover:active:link {
   color: cornfloweblue;
   text-decoration: none;
   transition: all .1s ease-in-out;
